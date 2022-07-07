@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@geckos.io/client": "^2.2.1",
-    "@geckos.io/phaser-on-nodejs": "^1.2.7",
     "@geckos.io/snapshot-interpolation": "^1.1.0",
     "@geckos.io/typed-array-buffer-schema": "^1.2.0",
     "phaser": "^3.55.2"
